@@ -1,0 +1,4 @@
+﻿  Lab5_c.c
+C:\Users\Xiaomi\source\repos\BoopPush\c_labs\Lab5_c\stack.h(54,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "void *"
+C:\Users\Xiaomi\source\repos\BoopPush\c_labs\Lab5_c\queue.h(80): warning C4715: at: значение возвращается не при всех путях выполнения
+  Lab5_c.vcxproj -> C:\Users\Xiaomi\source\repos\BoopPush\c_labs\Lab5_c\Debug\Lab5_c.exe

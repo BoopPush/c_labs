@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\ld01\source\repos\lab_c_4\lab_c_4\stack.h(54,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "void *"
-C:\Users\ld01\source\repos\lab_c_4\lab_c_4\queue.h(78): warning C4715: at: значение возвращается не при всех путях выполнения
-  lab_c_4.vcxproj -> C:\Users\ld01\source\repos\lab_c_4\Debug\lab_c_4.exe
