@@ -1,0 +1,2 @@
+C:\Users\Xiaomi\source\repos\BoopPush\c_labs\Lab6_c\Debug\Lab6_c.exe
+C:\Users\Xiaomi\source\repos\BoopPush\c_labs\Lab6_c\Debug\Lab6_c.pdb

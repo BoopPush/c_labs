@@ -1,0 +1,4 @@
+﻿  Lab6_c.cpp
+C:\Users\Xiaomi\source\repos\BoopPush\c_labs\Lab6_c\tree.h(27,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\BoopPush\c_labs\Lab6_c\tree.h(116,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab6_c.vcxproj -> C:\Users\Xiaomi\source\repos\BoopPush\c_labs\Lab6_c\Debug\Lab6_c.exe
